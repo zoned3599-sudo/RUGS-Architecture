@@ -2,7 +2,7 @@
 
 **Arquitectura de Aprendizaje Continuo para la eliminación del Olvido Catastrófico en LLMs.**
 
-**Autor:** [Tu Nombre Completo]
+**Autor:** David Haron Gutierrez Rivas
 **Fecha:** Noviembre 2026
 **Estado:** Prueba de Concepto Validada
 
