@@ -30,8 +30,8 @@ RUGS es una arquitectura inspirada en la biología celular. En lugar de reentren
 Todo el desarrollo, los 7 tests y la ecuación matemática (v12.0) fueron programados íntegramente desde un **Samsung usando Samsung DeX** y Google Colab, sin acceso a laboratorios ni GPUs dedicadas.
 
 ## 📂 Contenido del Repositorio
-*   `README.md` (Este documento)
-*   `Evidencia/` (Capturas de pantalla de los 7 tests)
+*   `README.md` 
+*   `Evidencia/`
 
 ## 🚀 Siguiente Paso
 Escalar la arquitectura a modelos de 7B (Mistral/Llama) para validación industrial.
